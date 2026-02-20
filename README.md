@@ -15,3 +15,6 @@ RUNNING THE PROGRAM:
 This tool is for educational use only and should not be used for determining if a password is strong or weak.
 A perfect example of where this program goes wrong is that it determines that the password P@ssword1234 is strong, when it is clearly not.
 There are a few more notes in the comment at the top of the Main.java file.
+
+When thinking about the ethical considerations and responsible use of this tool, I come to the conclusion that this tool could be misused by bad actors to help them think about how to write a program that could easily narrow down the potential options of passwords
+  that people might end up with since websites require so little of them. On the flip side, someone might look at this and reconsider a password that they have accepted as good enough in the past and modify it for more security in the future.
